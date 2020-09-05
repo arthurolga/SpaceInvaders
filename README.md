@@ -1,4 +1,7 @@
 # SpaceInvaders
+Integrante: Arthur Olga
+Link Jogável: https://arthurolga.itch.io/spaceinvadersclone
+
 15/17 Feitos
 
 1. X Quando todos os aliens morrerem, inicie uma nova fase com todos eles de volta;
